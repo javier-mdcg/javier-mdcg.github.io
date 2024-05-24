@@ -1,1 +1,9 @@
 <!-- Optional additional links to insert for icons links -->
+
+
+<a id="tags-link"
+   class="icon{% if page.url == '/tags' %} active{% endif %}"
+   title="Tags" aria-label="Tags"
+   href="{{ tags_page.url | relative_url }}">
+  {% include svg/tags.svg %}
+</a>
