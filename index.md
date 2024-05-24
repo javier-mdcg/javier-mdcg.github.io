@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 title: Sobre mí
 ---
 # Bienvenidos a mi sitio
