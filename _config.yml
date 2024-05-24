@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Javier Martínez
 tagline:          'Data scientist'
 description:      'Lic. en ciencia de datos e Ing. en computación'
-url:              https://fongandrew.github.io
+url:              https://javier-mdcg.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:          '/hydeout'
 
 author:
   name:           'Javier Martínez'
-  url:            https://google.com
+  url:            https://javier-mdcg.github.io
 
 paginate:         5
 #paginate_path:    '/page:num'
