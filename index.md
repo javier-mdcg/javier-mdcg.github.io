@@ -1,7 +1,3 @@
----
-layout: page
-title: Sobre mí
----
 # Bienvenidos a mi sitio
 Soy Javier Martínez, estudiante de lic. en ciencia de datos en el ITAM.
 Explora mi sitio para conocerme...
