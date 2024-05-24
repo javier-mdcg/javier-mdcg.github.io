@@ -1,7 +1,10 @@
 <!-- Optional additional links to insert in sidebar nav -->
 
-<a class="page-link {% if page.url == '/tags' %} active{% endif %}"
+<a class="home-link {% if page.url == '/tags' %} active{% endif %}"
   href="{{ "/tags" | relative_url }}">Proyectos</a>
 
-<a class="page-link {% if page.url == '/contacto' %} active{% endif %}"
+<a class="home-link active"
+  href="{{ "/contacto" | relative_url }}">Contáctame</a>
+
+<a class="home-link"
   href="{{ "/contacto" | relative_url }}">Contáctame</a>
