@@ -8,8 +8,8 @@
 	href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
   {% endif %}
   {% if tags_page %}
-    <a class="page-link{% if page.url == '/tags' %} active{% endif %}"
-       href="{{ site.sidebar_blog_link | relative_url }}">Proyectos</a>
+    <a class="home-link {% if page.url == '/tags' %} active{% endif %}"
+       href="{{ "/tags" | relative_url }}">Proyectos</a>
     </a>
   {% endif %}
 
