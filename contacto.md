@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-sidebar_link: false
+title: Contacto
+sidebar_link: true
 ---
 
 <p class="message">
@@ -11,3 +11,8 @@ sidebar_link: false
 
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
 matter.
+
+Escríbeme por alguno de estos medios:
+* Correo
+* LinkedIn
+* Github
