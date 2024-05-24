@@ -3,7 +3,7 @@
 <a class="home-link {% if page.url == '/tags' %} active{% endif %}"
   href="{{ "/tags" | relative_url }}">Proyectos</a>
 
-<a class="home-link active"
+<a {% if page.url == '/contacto' %}class="home-link active"{% else %}class="home-link"{% endif %}
   href="{{ "/contacto" | relative_url }}">Contáctame</a>
 
 <a class="home-link"
