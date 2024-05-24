@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contáctame
+title: Contacto
 sidebar_link: true
 ---
-Contáctame por alguno de estos medios:
+Escríbeme por alguno de estos medios:
 *Correo electrónico
 *Celular
 *Redes sociales
