@@ -9,7 +9,7 @@ tags:
   - Graph database
   - Docker
   - API
-last_modified_at: 2022-08-22T14:25:52-06:00
+last_modified_at: 2024-05-25T14:25:52-06:00
 ---
 
 Este proyecto representa una solución completa para la integración de datos y análisis utilizando contenedores Docker y diversas tecnologías de bases de datos.
