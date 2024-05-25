@@ -39,23 +39,19 @@ Paralelamente a la formación académica dentro de mi institución, he desarroll
 
 ---
 #### Integración de Datos y Análisis con Docker Compose
-Este proyecto representa una solución completa para la integración de datos y análisis utilizando contenedores Docker y diversas tecnologías de bases de datos.
+Este proyecto representa una solución completa para la integración de datos y análisis utilizando contenedores Docker y tecnologías de bases de datos no relacionales como MongoDB y Neo4j.
 
 <a href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### Proyecto 1
+#### <a style="color:black;" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
 Descripción básica del proyecto 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
-
-Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum. Vivamus nec orci augue. Praesent eu quam malesuada nulla mollis dictum. 
 
 <a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
 #### Proyecto 2
-Descripción básica del proyecto 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
-
-Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum. Vivamus nec orci augue. Praesent eu quam malesuada nulla mollis dictum. 
+Descripción básica del proyecto 2. Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum.
 
 <a href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Seguir leyendo >></a>
 
