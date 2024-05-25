@@ -42,7 +42,7 @@ Este proyecto representa una solución completa para la integración de datos y 
 
 El objetivo principal de este proyecto es extraer datos de una base de datos relacional mediante una API, transformarlos en documentos y almacenarlos en una base de datos de documentos MongoDB como un _data lake_. Luego, se realiza un análisis general sobre estos datos en MongoDB. Posteriormente, se filtran y procesan ciertos datos y se transfieren a una base de datos de grafos Neo4j para realizar un análisis más profundo y visualización de relaciones. 
 
-<a href="{{ '/proyecto/2024/05/30/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
 
 #### Proyecto 1
 Descripción básica del proyecto 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
