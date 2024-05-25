@@ -38,19 +38,19 @@ Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Adem
 Paralelamente a la formación académica dentro de mi institución, he desarrollado varios proyectos con el ojbetivo de fortalecer mis habilidades. Aquí presento algunos de ellos, o puedes verlos todos <a href="{{ '/tags' | relative_url }}">aquí</a>.
 
 ---
-#### Integración de Datos y Análisis con Docker Compose
+#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Integración de Datos y Análisis con Docker Compose</a>
 Este proyecto representa una solución completa para la integración de datos y análisis utilizando contenedores Docker y tecnologías de bases de datos no relacionales como MongoDB y Neo4j.
 
 <a href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### <a style="color:$heading-color;" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
+#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
 Descripción básica del proyecto 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
 
 <a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### Proyecto 2
+#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Proyecto 2</a>
 Descripción básica del proyecto 2. Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum.
 
 <a href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Seguir leyendo >></a>
