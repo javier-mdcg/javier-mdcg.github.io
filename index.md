@@ -6,7 +6,9 @@ title: Sobre mí
 Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Además de conocimientos sólidos en programación, análisis y manejo de datos, tengo habilidades de liderazgo, trabajo en equipo y resolución de problemas. Me apasionan las matemáticas y el desarrollo de software; he participado tanto en olimpiadas de matemáticas como en concursos de programación (ICPC). Busco oportunidades para aplicar y desarrollar mis habilidades en un entorno profesional.
 
 #### Habilidades técnicas
-* Manejo de Python, Java, SQL, R. 
+* Manejo de Python, Java, SQL, R.
+* Manejo de bases de datos no relacionales (NoSQL)
+* Uso de Docker
 * Gestión y análisis de Bases de Datos. 
 * Manejo de MS Excel y PowerPoint. 
 * PMIef Badge en Gestión de Proyectos. 
@@ -34,7 +36,7 @@ Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Adem
 
 ---
 
-## Mis proyectos
+## Proyectos
 Paralelamente a la formación académica dentro de mi institución, he desarrollado varios proyectos con el ojbetivo de fortalecer mis habilidades. Aquí presento algunos de ellos, o puedes verlos todos <a href="{{ '/tags' | relative_url }}">aquí</a>.
 
 ---
@@ -44,16 +46,16 @@ Este proyecto representa una solución completa para la integración de datos y 
 <a href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
-Descripción básica del proyecto 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
+#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2022/10/05/arbol-avl.html' | relative_url }}">Implementación de un Árbol AVL en Java</a>
+Una implementación de un Árbol AVL desarrollada en Java. asegura un rendimiento eficiente en operaciones de búsqueda, inserción y eliminación.
 
-<a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2022/10/05/arbol-avl.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Proyecto 2</a>
-Descripción básica del proyecto 2. Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum.
+#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
+Descripción básica del proyecto. Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum.
 
-<a href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
 <a href="{{ '/tags' | relative_url }}">Todos mis proyectos >></a>
