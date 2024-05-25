@@ -18,7 +18,6 @@ Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Adem
 * Comunicación efectiva. 
 * Administración de proyectos.  
 
----
 
 ## Experiencia
 
@@ -45,21 +44,21 @@ Sed dignissim tempus dui, vel scelerisque ligula venenatis non. Donec sit amet e
 
 Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum. Vivamus nec orci augue. Praesent eu quam malesuada nulla mollis dictum. 
 
-<a href="{{ '/tags' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
 
 #### Proyecto 2
 Descripción básica del proyecto 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
 
 Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum. Vivamus nec orci augue. Praesent eu quam malesuada nulla mollis dictum. 
 
-<a href="{{ '/tags' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2024/05/25/proyecto-2.html' | relative_url }}">Seguir leyendo >></a>
 
-### Proyecto 3
+#### Proyecto 3
 Descripción básica del proyecto 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
 
 Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum. Vivamus nec orci augue. Praesent eu quam malesuada nulla mollis dictum. 
 
-<a href="{{ '/tags' | relative_url }}">Seguir leyendo >></a>
+<a href="{{ '/proyecto/2024/05/25/proyecto-3.html' | relative_url }}">Seguir leyendo >></a>
 
 <a href="{{ '/tags' | relative_url }}">Todos mis proyectos >></a>
 
