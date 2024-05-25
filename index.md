@@ -12,21 +12,21 @@ Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Adem
 </tr>
 <tr>
 <td>
-
-* Manejo de Python, Java, SQL, R. 
-* Gestión y análisis de Bases de Datos. 
-* Manejo de MS Excel y PowerPoint. 
-* PMIef Badge en Gestión de Proyectos. 
-
+<ul>
+<li>Manejo de Python, Java, SQL, R.</li>
+<li>Gestión y análisis de Bases de Datos.</li>
+<li>Manejo de MS Excel y PowerPoint.</li>
+<li>PMIef Badge en Gestión de Proyectos.</li>
+</ul>
 </td>
 <td>
-
-* Capacidad analítica. 
-* Atención al detalle. 
-* Liderazgo y organización. 
-* Comunicación efectiva. 
-* Administración de proyectos.  
-
+<ul>
+<li>Capacidad analítica.</li>
+<li>Atención al detalle.</li>
+<li>Liderazgo y organización.</li>
+<li>Comunicación efectiva.</li>
+<li>Administración de proyectos.</li> 
+</ul>
 </td>
 </tr>
 </table>
