@@ -44,7 +44,7 @@ Este proyecto representa una solución completa para la integración de datos y 
 <a href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
-#### <a style="color:heading-color;" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
+#### <a style="color:$heading-color;" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
 Descripción básica del proyecto 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque aliquet iaculis. Duis porttitor ex id fermentum bibendum. Quisque aliquam et urna sagittis molestie.
 
 <a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
