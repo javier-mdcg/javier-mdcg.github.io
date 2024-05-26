@@ -29,7 +29,7 @@ $padding-v: 1em !default;
 $padding-h: 1.5em !default;
 $heading-spacing: 0.5rem !default;
 $section-spacing: 2rem !default;
-$sidebar-width: 18rem !default;
+$sidebar-width: 28%;
 
 $large-breakpoint: 49rem !default;
 $large-font-size: 1.25rem !default;
@@ -61,7 +61,7 @@ $heading-color-dark: $gray-1 !default;
 
 $border-color-dark: $code-color !default;
 
-$code-color-dark: #bf616a !default;
+$code-color-dark: $gray-5 !default;
 
 $body-bg-dark: #000;
 $sidebar-bg-color-dark: #191C24;

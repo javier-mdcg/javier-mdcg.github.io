@@ -183,7 +183,7 @@ body {
     // Attach to bottom or top of window
     @if $sidebar-sticky {
       bottom:45%;
-      transform: translateY(53%);
+      transform:translateY(53%) translateX(-80%)
     }
 
     @else {
@@ -196,7 +196,7 @@ body {
     }
 
     @else {
-      left: 0;
+      left: 23%;
     }
 
     .site-title {
