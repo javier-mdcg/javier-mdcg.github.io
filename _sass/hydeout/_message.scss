@@ -8,4 +8,8 @@
   color: #717171;
   margin-bottom: 1rem;
   padding: 1rem;
+  @media (prefers-color-scheme: dark) {
+    background-color: $gray-6;
+    color: $gray-3;
+  }
 }

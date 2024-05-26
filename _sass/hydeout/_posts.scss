@@ -17,6 +17,9 @@
 .post-title,
 .post-title a {
   color: $heading-color;
+  @media (prefers-color-scheme: dark) {
+    color: $heading-color-dark
+  }
 }
 
 h2.post-title,
