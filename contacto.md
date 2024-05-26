@@ -4,15 +4,14 @@ title: Contacto
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+¡Encantado de ponernos en contacto! Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en hacerlo. Estoy aquí para proporcionarte la información que necesites.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+## Información de contacto:
 
-Escríbeme por alguno de estos medios:
-* Correo
-* LinkedIn
-* Github
+* **Correo institucional:** jmart371@itam.mx
+* **Correo personal:** javiermartinez.dcg@gmail.com
+* **Resido en:** CDMX
+
+De lunes a viernes intento revisar mi correo electrónico con regularidad, así que puedes esperar una respuesta rápida.
+
+¡Escríbeme!
