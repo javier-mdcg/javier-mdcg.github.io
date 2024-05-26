@@ -1,4 +1,7 @@
 .highlight .hll { background-color: #ffc; }
+@media(prefers-color-scheme: dark) {
+  .highlight .hll { background-color: rgb(73, 73, 73); }
+}
 .highlight .c { color: #999; } /* Comment */
 .highlight .err { /* Error */
   background-color: #faa;
