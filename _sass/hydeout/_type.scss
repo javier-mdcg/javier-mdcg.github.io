@@ -14,6 +14,9 @@ h6,
   line-height: 1.25;
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
+  @media (prefers-color-scheme: dark) {
+    color: $heading-color-dark;
+  }
 }
 
 h1 {
@@ -43,7 +46,10 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: $gray-6;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-1;
+  }
 }
 
 ul,
@@ -67,6 +73,10 @@ hr {
   border-top: 1px solid #eee;
   margin: 1.5rem 0;
   position: relative;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $gray-5;
+    border-top: 1px solid #eee;
+  }
 }
 
 abbr {
@@ -78,6 +88,9 @@ abbr {
   &[title] {
     border-bottom: 1px dotted $border-color;
     cursor: help;
+    @media (prefers-color-scheme: dark) {
+      border-bottom: 1px dotted $border-color-dark;
+    }
   }
 }
 
@@ -86,6 +99,10 @@ blockquote {
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-3;
+    border-left: 0.25rem solid $border-color-dark;
+  }
 
   p:last-child {
     margin-bottom: 0;
@@ -128,6 +145,9 @@ a[href^='#fnref:'] {
 // SVG Icons
 a svg {
   fill: $link-color;
+  @media (prefers-color-scheme: dark) {
+    fill: $link-color-dark;
+  }
 }
 
 a svg,

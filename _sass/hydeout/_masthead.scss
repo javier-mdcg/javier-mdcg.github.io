@@ -12,6 +12,9 @@
   color: $gray-5;
   margin-bottom: 0;
   margin-top: 0;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-2;
+  }
 
   a {
     color: inherit;

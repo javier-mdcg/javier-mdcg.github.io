@@ -102,7 +102,13 @@ body {
 
   h1,
   h2 {
-    color: inherit;
+    color: $heading-color-dark;
+  }
+  @media(prefers-color-scheme: dark) {
+    h1,
+    h2 {
+      color: inherit;
+    }
   }
 
   h1:last-child,
@@ -242,7 +248,9 @@ body {
       h1,
       h2 {
         color: inherit;
-
+        @media(prefers-color-scheme: dark) {
+          color: $heading-color-dark;
+        }
         &:last-child {
           margin-bottom: $heading-spacing;
         }
