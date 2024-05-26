@@ -26,10 +26,7 @@ body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
   color: $sidebar-text-color;
-  @media(prefers-color-scheme: dark) {
-    background-color: $sidebar-bg-color-dark;
-    color: $sidebar-text-color-dark;
-  }
+
   //background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
   display: flex;
   flex-direction: column;
@@ -56,10 +53,6 @@ body {
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
-  @media(prefers-color-scheme: dark) {
-    background: $body-bg-dark;
-    color: $body-color-dark;
-  }
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -92,9 +85,6 @@ body {
 .container > header {
   background: transparent;
   color: $sidebar-title-color;
-  @media(prefers-color-scheme: dark) {
-    color: $sidebar-title-color-dark;
-  }
   margin:
     ($heading-spacing - $section-spacing)
     $section-spacing
@@ -176,7 +166,8 @@ body {
 
     // Attach to bottom or top of window
     @if $sidebar-sticky {
-      bottom: 0;
+      bottom:45%;
+      transform: translateY(53%);
     }
 
     @else {
@@ -213,10 +204,6 @@ body {
   .container {
     background: $body-bg;
     color: $body-color;
-    @media(prefers-color-scheme: dark) {
-      background: $body-bg-dark;
-      color: $body-color-dark;
-    }
     min-height: 100vh;
     padding:
       $section-spacing * 2
@@ -233,9 +220,6 @@ body {
 
     > header {
       color: $heading-color;
-      @media(prefers-color-scheme: dark) {
-        color: $heading-color-dark;
-      }
       margin: 0;
 
       h1,
@@ -261,15 +245,9 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
-  @media(prefers-color-scheme: dark) {
-    color: $sidebar-link-color-dark;
-  }
 
   svg {
     fill: $sidebar-icon-color;
-    @media(prefers-color-scheme: dark) {
-      fill: $sidebar-icon-color-dark;
-    }
   }
 }
 
@@ -277,9 +255,6 @@ body {
 #sidebar a:focus,
 #sidebar a.active {
   svg { fill: $sidebar-icon-color; }
-  @media(prefers-color-scheme: dark) {
-    fill: $sidebar-icon-color-dark
-  }
 }
 
 #sidebar a:hover,
@@ -297,9 +272,6 @@ body {
 
 #sidebar .site-title {
   color: $sidebar-title-color;
-  @media(prefers-color-scheme: dark) {
-    color: $sidebar-title-color-dark;
-  }
   a { color: inherit; }
 }
 
