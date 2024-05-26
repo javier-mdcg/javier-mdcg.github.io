@@ -5,8 +5,8 @@ categories:
   - Proyecto
 tags:
   - NoSQL
-  - Document-oriented database
-  - Graph database
+  - Document-oriented databases
+  - Graph-oriented databases
   - Docker
   - API
 last_modified_at: 2024-05-25T14:25:52-06:00

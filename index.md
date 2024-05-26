@@ -3,7 +3,7 @@ layout: homepage
 title: Sobre mí
 ---
 # Sobre mí
-Soy Javier Martínez, estudiante de la lic. en ciencia de datos en el ITAM. Además de conocimientos sólidos en programación, análisis y manejo de datos, tengo habilidades de liderazgo, trabajo en equipo y resolución de problemas. Me apasionan las matemáticas y el desarrollo de software; he participado tanto en olimpiadas de matemáticas como en concursos de programación (ICPC). Busco oportunidades para aplicar y desarrollar mis habilidades en un entorno profesional.
+Soy Javier Martínez, estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos sólidos en programación, análisis y manejo de datos, tengo habilidades de liderazgo, trabajo en equipo y resolución de problemas. Me apasionan las matemáticas y el desarrollo de software; he participado tanto en olimpiadas de matemáticas como en concursos de programación (ICPC). Busco oportunidades para aplicar y desarrollar mis habilidades en un entorno profesional.
 
 #### Habilidades técnicas
 * Manejo de Python, Java, SQL, R.
