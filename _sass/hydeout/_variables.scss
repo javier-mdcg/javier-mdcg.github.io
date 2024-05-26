@@ -51,3 +51,29 @@ $sidebar-title-color: $sidebar-fg-color !default;
 $sidebar-link-color: $sidebar-fg-color !default;
 $sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
 $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
+
+
+
+
+@media (prefers-color-scheme: dark) {
+
+    $body-color: $gray-2 !default;
+    $body-muted: $gray-3 !default;
+    $body-bg: #fff;
+    $link-color: $blue !default;
+    $heading-color: $gray-1 !default;
+
+    $border-color: $gray-5 !default;
+
+    $code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
+    $code-color: #bf616a !default;
+
+    $body-bg: #000;
+    $sidebar-bg-color: #191C24;
+    $sidebar-fg-color: #fff;
+
+    $sidebar-title-color: $sidebar-fg-color !default;
+    $sidebar-link-color: $sidebar-fg-color !default;
+    $sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
+    $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
+}

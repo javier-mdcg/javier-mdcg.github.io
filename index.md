@@ -37,7 +37,7 @@ Soy Javier Martínez, estudiante de lic. en ciencia de datos en el ITAM. Además
 ---
 
 ## Proyectos
-Paralelamente a la formación académica dentro de mi institución, he desarrollado varios proyectos con el ojbetivo de fortalecer mis habilidades. Aquí presento algunos de ellos, o puedes verlos todos <a href="{{ '/tags' | relative_url }}">aquí</a>.
+Paralelamente a la formación académica dentro de mi institución, he desarrollado varios proyectos con el objetivo de fortalecer mis habilidades. Aquí presento algunos de ellos, o puedes verlos todos <a href="{{ '/tags' | relative_url }}">aquí</a>.
 
 ---
 #### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/integracion-de-datos.html' | relative_url }}">Integración de Datos y Análisis con Docker Compose</a>
