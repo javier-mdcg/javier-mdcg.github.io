@@ -53,22 +53,21 @@ $sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
 $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
 
 
-@media (prefers-color-sheme: dark) {
-    $body-color: $gray-2 !default;
-    $body-muted: $gray-3 !default;
-    $link-color: $blue !default;
-    $heading-color: $gray-1 !default;
 
-    $border-color: $code-color !default;
+$body-color-dark: $gray-2 !default;
+$body-muted-dark: $gray-3 !default;
+$link-color-dark: $blue !default;
+$heading-color-dark: $gray-1 !default;
 
-    $code-color: #bf616a !default;
+$border-color-dark: $code-color !default;
 
-    $body-bg: #000;
-    $sidebar-bg-color: #191C24;
-    $sidebar-fg-color: #fff;
+$code-color-dark: #bf616a !default;
 
-    $sidebar-title-color: $sidebar-fg-color !default;
-    $sidebar-link-color: $sidebar-fg-color !default;
-    $sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
-    $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
-}
+$body-bg-dark: #000;
+$sidebar-bg-color-dark: #191C24;
+$sidebar-fg-color-dark: #fff;
+
+$sidebar-title-color-dark: $sidebar-fg-color !default;
+$sidebar-link-color-dark: $sidebar-fg-color !default;
+$sidebar-text-color-dark: rgba($sidebar-fg-color, 0.75) !default;
+$sidebar-icon-color-dark: rgba($sidebar-fg-color, 0.85) !default;
