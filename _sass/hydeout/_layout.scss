@@ -39,7 +39,9 @@ body {
   .site-title {
     font-family: 'Josefin Sans', sans-serif;
     font-size: $large-font-size;
-    font-weight: normal;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
   }
