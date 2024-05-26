@@ -37,11 +37,10 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: $large-font-size;
-    font-optical-sizing: auto;
-    font-weight: 700;
+    font-family: "Mukta", sans-serif;
+    font-weight: 800;
     font-style: normal;
+    font-size: $large-font-size;
     margin-bottom: $heading-spacing;
     margin-top: 0;
   }
