@@ -13,10 +13,10 @@ El algoritmo de distancia de edición, también conocido como distancia de Leven
 
 ## Uso
 
-Puedes utilizar esta funcionalidad en tus propios proyectos de Java siguiendo estos pasos:
+Puedes utilizarse esta funcionalidad en proyectos de Java siguiendo estos pasos:
 
-1. Incluye la clase `distanciaEntreCadenas` en tu proyecto Java.
-2. Llama al método `calculaDistancia(String s1, String s2)` proporcionando las dos cadenas que deseas comparar. Este método devolverá la distancia entre las cadenas.
+1. Incluír la clase `distanciaEntreCadenas` en el proyecto Java.
+2. Llamar al método `calculaDistancia(String s1, String s2)` proporcionando las dos cadenas que se desea comparar. Este método devolverá la distancia entre las cadenas.
 
 ```java
 int distancia = distanciaEntreCadenas.calculaDistancia("cadena1", "cadena2");
@@ -28,8 +28,9 @@ System.out.println("La distancia entre las cadenas es: " + distancia);
 ```java
 public class Main {
     public static void main(String[] args) {
-        // Ejemplo de uso
-        System.out.println(distanciaEntreCadenas.calculaDistancia("hola", "holse")); // Salida: 2
+        
+        System.out.println(distanciaEntreCadenas.calculaDistancia("hola", "holse"));
     }
 }
 ```
+En este ejemplo la salida es `2`, pues se requieren dos operaciones para llegar de una cadena a la otra.

@@ -3,22 +3,24 @@ layout: homepage
 title: Sobre mí
 ---
 # Sobre mí
-Soy Javier Martínez, estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos sólidos en programación, análisis y manejo de datos, tengo habilidades de liderazgo, trabajo en equipo y resolución de problemas. Me apasionan las matemáticas y el desarrollo de software; he participado tanto en olimpiadas de matemáticas como en concursos de programación (ICPC). Busco oportunidades para aplicar y desarrollar mis habilidades en un entorno profesional.
+Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos sólidos en programación, análisis y manejo de datos, tengo habilidades de liderazgo, trabajo en equipo y resolución de problemas. Me apasionan las matemáticas y el desarrollo de software; he participado tanto en olimpiadas de matemáticas como en concursos de programación (ICPC). Busco oportunidades para aplicar y desarrollar mis habilidades en un entorno profesional.
+
+**Idiomas:** Español nativo, inglés fluido y alemán de competencia básica 
 
 #### Habilidades técnicas
 * Manejo de Python, Java, SQL, R.
-* Manejo de bases de datos no relacionales (NoSQL)
-* Uso de Docker
-* Gestión y análisis de Bases de Datos. 
-* Manejo de MS Excel y PowerPoint. 
-* PMIef Badge en Gestión de Proyectos. 
+* Bases de datos no relacionales (NoSQL).
+* Contenedores de Docker.
+* Gestión y análisis de Bases de Datos.
+* Manejo de MS Excel y PowerPoint.
+* PMIef Badge en Gestión de Proyectos.
 
 #### Habilidades personales
-* Capacidad analítica. 
-* Atención al detalle. 
-* Liderazgo y organización. 
-* Comunicación efectiva. 
-* Administración de proyectos.  
+* Capacidad analítica.
+* Atención al detalle.
+* Liderazgo y organización.
+* Comunicación efectiva.
+* Administración de proyectos.
 
 
 ## Experiencia
@@ -50,12 +52,6 @@ Este proyecto representa una solución completa para la integración de datos y 
 Una implementación de un Árbol AVL desarrollada en Java. asegura un rendimiento eficiente en operaciones de búsqueda, inserción y eliminación.
 
 <a href="{{ '/proyecto/2022/10/05/arbol-avl.html' | relative_url }}">Seguir leyendo >></a>
-
----
-#### <a style="color: var(--heading-color);" href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Proyecto 1</a>
-Descripción básica del proyecto. Nunc cursus pulvinar hendrerit. Nulla facilisi. Fusce id molestie augue, a dignissim tellus. Curabitur et commodo ligula. Morbi rutrum eget urna sit amet dapibus. Morbi in nunc vitae mi placerat interdum.
-
-<a href="{{ '/proyecto/2024/05/25/proyecto-1.html' | relative_url }}">Seguir leyendo >></a>
 
 ---
 <a href="{{ '/tags' | relative_url }}">Todos mis proyectos >></a>
