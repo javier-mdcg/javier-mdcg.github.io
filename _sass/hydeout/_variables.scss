@@ -39,6 +39,12 @@ $sidebar-width: 28%;
 
 $large-breakpoint: 49rem !default;
 $large-font-size: 1.25rem !default;
+@media screen and (max-width: 1180) {
+    $large-font-size: 1.125rem;
+}
+@media screen and (max-height: 620px) {
+    $large-font-size: 1.125rem;
+}
 
 $box-shadow-size: 1px !default;
 $box-shadow-opacity: 0.16 !default;
