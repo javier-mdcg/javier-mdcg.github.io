@@ -15,12 +15,6 @@ $brown: #8f5536 !default;
 
 $root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
 $root-font-size: 1rem !default;
-@media screen and (max-width: 1180) {
-    $root-font-size: 0.875rem;
-}
-@media screen and (max-height: 620px) {
-    $root-font-size: 0.875rem;
-}
 $root-line-height: 1.5 !default;
 
 $body-color: $gray-5 !default;
@@ -39,12 +33,6 @@ $sidebar-width: 28%;
 
 $large-breakpoint: 49rem !default;
 $large-font-size: 1.25rem !default;
-@media screen and (max-width: 1180) {
-    $large-font-size: 1.125rem;
-}
-@media screen and (max-height: 620px) {
-    $large-font-size: 1.125rem;
-}
 
 $box-shadow-size: 1px !default;
 $box-shadow-opacity: 0.16 !default;

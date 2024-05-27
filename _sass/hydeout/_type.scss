@@ -158,3 +158,78 @@ a svg,
 .icon {
   vertical-align: middle;
 }
+
+
+
+
+
+
+@media screen and (max-width: 1180px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 0.875rem;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+    margin-top: 1.25rem;
+  }
+  
+  h4,
+  h5,
+  h6 {
+    font-size: 0.875rem;
+    margin-top: 0.875rem;
+  }
+  
+  p {
+    margin-bottom: 0.875rem;
+    margin-top: 0;
+  }
+
+  .lead {
+    font-size: 1.125rem;
+    font-weight: 300;
+  }
+}
+@media screen and (max-height: 620px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 0.875rem;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+    margin-top: 1.25rem;
+  }
+  
+  h4,
+  h5,
+  h6 {
+    font-size: 0.875rem;
+    margin-top: 0.875rem;
+  }
+  
+  p {
+    margin-bottom: 0.875rem;
+    margin-top: 0;
+  }
+
+  .lead {
+    font-size: 1.125rem;
+    font-weight: 300;
+  }
+}
+@media screen and (max-height: 500px) {
+  .lead {
+    font-size: 2rem;
+  }
+}
