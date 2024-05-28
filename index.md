@@ -26,10 +26,10 @@ Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos 
 ## Experiencia
 
 #### Editor de Ciencia y Tecnología, El Supuesto 
-* Redacción y edición de artículos para el periódico institucional 
-* Investigación y recopilación de información 
-* Contacto con expertos y profesionales para colaboraciones 
-* Trabajo en equipo en coordinación y gestión 
+* Redacción y edición de artículos para el periódico institucional.
+* Investigación y recopilación de información.
+* Contacto con expertos y profesionales para colaboraciones.
+* Trabajo en equipo en coordinación y gestión.
 
 #### Voluntario, Coding Rush 
 * Participación en organización de concurso de programación para introducir la disciplina a estudiantes de preparatoria. 
@@ -59,4 +59,4 @@ Una implementación de un Árbol AVL desarrollada en Java. asegura un rendimient
 ---
 
 ## Además de programar
-Además de programar tengo otros intereses &#128520;
+Además de programar me gusta la música y el fútbol.
