@@ -59,4 +59,6 @@ Una implementación de un Árbol AVL desarrollada en Java. asegura un rendimient
 ---
 
 ## Además de programar
-Además de programar me gusta la música y el fútbol.
+Desde que recuerdo la música ha sido una enorme pasión en mi vida.  Toco la guitarra y el piano, y disfruto descubriendo nuevos instrumentos y experimentando con ritmos diferentes, en particular de latinoamérica. Me fascina la diversidad musical y me gusta escuchar rock, indie, EDM y en particular fusiones que combinan diferentes géneros. Siempre estoy en busca de nuevas melodías y sonidos que amplíen mis horizontes musicales.
+
+Además, juego fútbol de manera recreativa, disfrutando de la camaradería y el ejercicio que ofrece este deporte. Me encanta pasar tiempo en la cancha con amigos, siempre buscando mejorar mis habilidades y disfrutando del juego por el puro placer de jugar. Este amor por la música y el fútbol me mantiene equilibrado y me ofrece una forma de expresión y de relajación en mi día a día.
