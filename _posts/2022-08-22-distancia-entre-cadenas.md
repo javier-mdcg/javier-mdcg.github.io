@@ -4,6 +4,7 @@ categories:
   - Proyecto
 tags:
   - Estructuras de datos
+  - Java
 last_modified_at: 2022-08-22T14:25:52-06:00
 ---
 
