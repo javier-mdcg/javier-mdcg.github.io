@@ -241,6 +241,10 @@ body {
       margin-left: $sidebar-width;
     }
 
+    @media screen and (max-width: 910px) and (min-width: 784px) {
+      margin-left: 260px;
+    }
+
     > header {
       color: $heading-color;
       @media(prefers-color-scheme: dark) {
