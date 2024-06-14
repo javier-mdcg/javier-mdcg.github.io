@@ -141,15 +141,6 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    @media screen and (max-width: 1180px) and (min-width: 784px) {
-      font-size: 2.5rem;
-    }
-    @media screen and (max-height: 620px) {
-      font-size: 2.5rem;
-    }
-    @media screen and (max-width: 1000px) and (min-width: 784px) {
-      font-size: 2.25rem;
-    }
   }
 
   // Show secondary nav content + lead
