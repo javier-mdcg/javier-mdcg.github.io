@@ -123,6 +123,18 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
+
+    @media screen and (max-width: 1180px) and (min-width: 784px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-height: 620px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-width: 1000px) and (min-width: 784px) {
+      font-size: 2.25rem;
+    }
   }
 
   // Show secondary nav content + lead
@@ -264,8 +276,8 @@ body {
       margin-left: $sidebar-width;
     }
 
-    @media screen and (max-width: 1240px) and (min-width: 784px) {
-      margin-left: 18rem;
+    @media screen and (max-width: 910px) and (min-width: 784px) {
+      margin-left: 260px;
     }
 
     > header {
