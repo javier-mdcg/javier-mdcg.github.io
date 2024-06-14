@@ -194,7 +194,7 @@ body {
         left: 23%;
       }
     }
-    
+
     @media screen and (max-width: 1239px) {
       @if $sidebar-sticky {
         bottom: 0;
@@ -265,7 +265,7 @@ body {
     }
 
     @media screen and (max-width: 1240px) and (min-width: 784px) {
-      margin-left: $sidebar-width;
+      margin-left: 18rem;
     }
 
     > header {
