@@ -187,43 +187,22 @@ body {
     position: fixed;
 
     // Attach to bottom or top of window
-    @media screen and (min-width: 1240px) {
-      @if $sidebar-sticky {
-        bottom:45%;
-        transform:translateY(53%) translateX(-80%)
-      }
-
-      @else {
-        top: 0;
-      }
-
-      // Attach to right or left of window
-      @if $layout-reverse {
-        right: 0;
-      }
-
-      @else {
-        left: 23%;
-      }
+    @if $sidebar-sticky {
+      bottom:45%;
+      transform:translateY(53%) translateX(-80%)
     }
 
-    @media screen and (max-width: 1239px) {
-      @if $sidebar-sticky {
-        bottom: 0;
-      }
+    @else {
+      top: 0;
+    }
 
-      @else {
-        top: 0;
-      }
+    // Attach to right or left of window
+    @if $layout-reverse {
+      right: 0;
+    }
 
-      // Attach to right or left of window
-      @if $layout-reverse {
-        right: 0;
-      }
-
-      @else {
-        left: 0;
-      }
+    @else {
+      left: 23%;
     }
 
     .site-title {
