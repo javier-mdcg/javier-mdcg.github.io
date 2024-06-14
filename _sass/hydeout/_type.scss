@@ -140,6 +140,9 @@ a[href^='#fnref:'] {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  @media screen and (max-height: 620px) {
+    font-size: 1rem;
+  }
 }
 
 // SVG Icons
