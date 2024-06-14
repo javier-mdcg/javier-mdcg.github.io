@@ -25,13 +25,13 @@ Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos 
 
 ## Experiencia
 
-#### Editor de Ciencia y Tecnología, El Supuesto 
+#### Editor de Ciencia y Tecnología, El Supuesto (enero 2024 - presente)
 * Redacción y edición de artículos para el periódico institucional.
 * Investigación y recopilación de información.
 * Contacto con expertos y profesionales para colaboraciones.
 * Trabajo en equipo en coordinación y gestión.
 
-#### Voluntario, Coding Rush 
+#### Voluntario, Coding Rush (enero 2022 - noviembre 2022)
 * Participación en organización de concurso de programación para introducir la disciplina a estudiantes de preparatoria. 
 * Colaboración en la planificación y coordinación del evento. 
 * Facilitación de talleres y sesiones prácticas a estudiantes de preparatoria. 
@@ -59,6 +59,17 @@ Una implementación de un Árbol AVL desarrollada en Java. asegura un rendimient
 ---
 
 ## Además de programar
-Desde que recuerdo la música ha sido una enorme pasión en mi vida.  Toco la guitarra y el piano, y disfruto descubriendo nuevos instrumentos y experimentando con ritmos diferentes, en particular de latinoamérica. Me fascina la diversidad musical y me gusta escuchar rock, indie, EDM y en particular fusiones que combinan diferentes géneros. Siempre estoy en busca de nuevas melodías y sonidos que amplíen mis horizontes musicales.
+Desde que recuerdo la música ha sido una enorme pasión en mi vida.  Toco la guitarra y el piano, y disfruto descubriendo nuevos instrumentos y experimentando con ritmos diferentes, en particular de latinoamérica. Me fascina la diversidad musical y me gusta escuchar rock, indie y en particular fusiones que combinan diferentes géneros. Siempre estoy en busca de nuevas melodías y sonidos que amplíen mis horizontes musicales.
 
 Además, juego fútbol de manera recreativa, disfrutando de la camaradería y el ejercicio que ofrece este deporte. Me encanta pasar tiempo en la cancha con amigos, siempre buscando mejorar mis habilidades y disfrutando del juego por el puro placer de jugar. Este amor por la música y el fútbol me mantiene equilibrado y me ofrece una forma de expresión y de relajación en mi día a día.
+
+---
+
+## Contacto
+¡Encantado de ponernos en contacto! Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en hacerlo. Estoy aquí para proporcionarte la información que necesites.
+
+* **Correo institucional:** jmart371 @ itam.mx
+* **Correo personal:** javiermartinez.dcg @ gmail.com
+* **Resido en:** CDMX
+
+¡Escríbeme!
