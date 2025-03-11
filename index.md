@@ -8,8 +8,9 @@ Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos 
 **Idiomas:** Español nativo, inglés fluido y alemán de competencia básica 
 
 #### Habilidades técnicas
-* Manejo de Python, SQL, R, Java, Julia, Visual Basic.
-* Gestión y análisis de bases de datos relacionales. 
+* Programación en Python, SQL, R, Java, Julia, Visual Basic.
+* Visualización de datos con R, Tableau.
+* Gestión y análisis de bases de datos con SQL.
 * Manejo de bases de datos no relacionales (NoSQL).
 * Uso de Docker.
 * Manejo de MS Excel y PowerPoint. 
