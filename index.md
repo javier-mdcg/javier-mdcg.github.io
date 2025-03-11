@@ -8,12 +8,12 @@ Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos 
 **Idiomas:** Español nativo, inglés fluido y alemán de competencia básica 
 
 #### Habilidades técnicas
-* Manejo de Python, Java, SQL, R.
-* Bases de datos no relacionales (NoSQL).
-* Contenedores de Docker.
-* Gestión y análisis de Bases de Datos.
-* Manejo de MS Excel y PowerPoint.
-* PMIef Badge en Gestión de Proyectos.
+* Manejo de Python, SQL, R, Java, Julia, Visual Basic.
+* Gestión y análisis de bases de datos relacionales. 
+* Manejo de bases de datos no relacionales (NoSQL).
+* Uso de Docker.
+* Manejo de MS Excel y PowerPoint. 
+* PMIef Badge en Gestión de Proyectos. 
 
 #### Habilidades personales
 * Capacidad analítica.
@@ -23,18 +23,19 @@ Soy estudiante de lic. en ciencia de datos en el ITAM. Además de conocimientos 
 * Administración de proyectos.
 
 
-## Experiencia
+## Experiencias
 
-#### Editor de Ciencia y Tecnología, El Supuesto (enero 2024 - presente)
+#### Editor de Ciencia y Tecnología, El Supuesto (enero 2024 - julio 2024)
 * Redacción y edición de artículos para el periódico institucional.
 * Investigación y recopilación de información.
 * Contacto con expertos y profesionales para colaboraciones.
 * Trabajo en equipo en coordinación y gestión.
 
-#### Voluntario, Coding Rush (enero 2022 - noviembre 2022)
+#### Voluntario, Coding Rush (enero 2022 - noviembre 2022, enero 2025 - presente)
 * Participación en organización de concurso de programación para introducir la disciplina a estudiantes de preparatoria. 
 * Colaboración en la planificación y coordinación del evento. 
-* Facilitación de talleres y sesiones prácticas a estudiantes de preparatoria. 
+* Facilitación de talleres y sesiones prácticas a estudiantes de preparatoria.
+* Diseño de problemas para concurso.
 
 ---
 

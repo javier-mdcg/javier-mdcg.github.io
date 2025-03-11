@@ -12,11 +12,11 @@ tags:
 last_modified_at: 2024-05-25T14:25:52-06:00
 ---
 
-Este proyecto representa una solución completa para la integración de datos y análisis utilizando contenedores Docker y diversas tecnologías de bases de datos.
+Este proyecto representa una solución para la integración de datos y análisis utilizando contenedores Docker y diversas tecnologías de bases de datos.
 
 ## Descripción
 
-El objetivo principal de este proyecto es extraer datos de una base de datos relacional mediante una API, transformarlos en documentos y almacenarlos en una base de datos de documentos MongoDB como un _data lake_. Luego, se realiza un análisis general sobre estos datos en MongoDB. Posteriormente, se filtran y procesan ciertos datos y se transfieren a una base de datos de grafos Neo4j para realizar un análisis más profundo y visualización de relaciones.
+El objetivo de este proyecto fue extraer datos de una base de datos relacional mediante una API, transformarlos en documentos y almacenarlos en una base de datos de documentos MongoDB, utilizándola como _data lake_. Luego, se realizó un análisis general sobre estos datos en MongoDB. Posteriormente, se filtraron y procesaron ciertos datos y se transfirieron a una base de datos de grafos Neo4j para realizar un análisis más profundo y visualización de relaciones.
 
 ## Tecnologías Utilizadas
 

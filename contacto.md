@@ -12,6 +12,6 @@ sidebar_link: true
 * **Correo personal:** javiermartinez.dcg@gmail.com
 * **Resido en:** CDMX
 
-De lunes a viernes intento revisar mi correo electrónico con regularidad, así que puedes esperar una respuesta rápida.
+Reviso mi correo electrónico con regularidad, así que puedes esperar una respuesta rápida.
 
 ¡Escríbeme!
