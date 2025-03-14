@@ -47,19 +47,6 @@ body {
     font-size: $large-font-size;
     margin-bottom: $heading-spacing;
     margin-top: 0;
-    //font-size: 3.25rem;
-    
-    @media screen and (max-width: 1180px) and (min-width: 784px) {
-      font-size: 2.5rem;
-    }
-    
-    @media screen and (max-height: 620px) {
-      font-size: 2.5rem;
-    }
-    
-    @media screen and (max-width: 1000px) and (min-width: 784px) {
-      font-size: 2.25rem;
-    }
   }
 
   .site-title .back-arrow { margin-right: 0.5rem; }
@@ -128,11 +115,6 @@ body {
   Mobile view for home page)
 ----------------------------------------------------------- */
 
-
-
-
-
-
 .home #sidebar {
 
   // Center sidebar content
@@ -141,6 +123,18 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
+
+    @media screen and (max-width: 1180px) and (min-width: 784px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-height: 620px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-width: 1000px) and (min-width: 784px) {
+      font-size: 2.25rem;
+    }
   }
 
   // Show secondary nav content + lead
@@ -214,6 +208,17 @@ body {
     .site-title {
       font-size: 3.25rem;
       .back-arrow { display: none; }
+      @media screen and (max-width: 1180px) and (min-width: 784px) {
+        font-size: 2.5rem;
+      }
+      
+      @media screen and (max-height: 620px) {
+        font-size: 2.5rem;
+      }
+      
+      @media screen and (max-width: 1000px) and (min-width: 784px) {
+        font-size: 2.25rem;
+      }
     }
 
     p.lead,
