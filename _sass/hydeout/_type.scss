@@ -14,6 +14,9 @@ h6,
   line-height: 1.25;
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
+  @media (prefers-color-scheme: dark) {
+    color: $heading-color-dark;
+  }
 }
 
 h1 {
@@ -43,7 +46,10 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: $gray-6;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-1;
+  }
 }
 
 ul,
@@ -67,6 +73,10 @@ hr {
   border-top: 1px solid #eee;
   margin: 1.5rem 0;
   position: relative;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $body-bg-dark;
+    border-top: 1px solid #252525;
+  }
 }
 
 abbr {
@@ -78,6 +88,9 @@ abbr {
   &[title] {
     border-bottom: 1px dotted $border-color;
     cursor: help;
+    @media (prefers-color-scheme: dark) {
+      border-bottom: 1px dotted $border-color-dark;
+    }
   }
 }
 
@@ -86,6 +99,10 @@ blockquote {
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-3;
+    border-left: 0.25rem solid $border-color-dark;
+  }
 
   p:last-child {
     margin-bottom: 0;
@@ -123,11 +140,17 @@ a[href^='#fnref:'] {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  @media screen and (max-height: 620px) {
+    font-size: 1rem;
+  }
 }
 
 // SVG Icons
 a svg {
   fill: $link-color;
+  @media (prefers-color-scheme: dark) {
+    fill: $link-color-dark;
+  }
 }
 
 a svg,
@@ -138,3 +161,80 @@ a svg,
 .icon {
   vertical-align: middle;
 }
+
+
+
+
+/*
+
+@media screen and (max-width: 1180px) and (min-width: 784px) {
+  h1 {
+    font-size: 1.875rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 0.875rem;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+    margin-top: 1.25rem;
+  }
+  
+  h4,
+  h5,
+  h6 {
+    font-size: 0.875rem;
+    margin-top: 0.875rem;
+  }
+  
+  p {
+    margin-bottom: 0.875rem;
+    margin-top: 0;
+  }
+
+  .lead {
+    font-size: 1.125rem;
+    font-weight: 300;
+  }
+}
+@media screen and (max-height: 620px) {
+  h1 {
+    font-size: 1.875rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 0.875rem;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+    margin-top: 1.25rem;
+  }
+  
+  h4,
+  h5,
+  h6 {
+    font-size: 0.875rem;
+    margin-top: 0.875rem;
+  }
+  
+  p {
+    margin-bottom: 0.875rem;
+    margin-top: 0;
+  }
+
+  .lead {
+    font-size: 1.125rem;
+    font-weight: 300;
+  }
+}
+@media screen and (max-height: 500px) {
+  .lead {
+    font-size: 0.875rem;
+  }
+}
+
+*/

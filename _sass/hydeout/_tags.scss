@@ -12,6 +12,9 @@
   margin-left: 0.25em;
   padding-left: 0.6em;
   padding-right: 0.6em;
+  @media (prefers-color-scheme: dark) {
+    background: $link-color-dark;
+  }
 }
 
 .tags-list a:hover {

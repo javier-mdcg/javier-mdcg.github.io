@@ -25,8 +25,12 @@
 body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
-  background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
   color: $sidebar-text-color;
+  @media(prefers-color-scheme: dark) {
+    background-color: $sidebar-bg-color-dark;
+    color: $sidebar-text-color-dark;
+  }
+  //background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -37,9 +41,10 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Abril Fatface', serif;
+    font-family: "Mukta", sans-serif;
+    font-weight: 800;
+    font-style: normal;
     font-size: $large-font-size;
-    font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
   }
@@ -51,6 +56,10 @@ body {
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
+  @media(prefers-color-scheme: dark) {
+    background: $body-bg-dark;
+    color: $body-color-dark;
+  }
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -83,6 +92,9 @@ body {
 .container > header {
   background: transparent;
   color: $sidebar-title-color;
+  @media(prefers-color-scheme: dark) {
+    color: $sidebar-title-color-dark;
+  }
   margin:
     ($heading-spacing - $section-spacing)
     $section-spacing
@@ -111,6 +123,18 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
+
+    @media screen and (max-width: 1180px) and (min-width: 784px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-height: 620px) {
+      font-size: 2.5rem;
+    }
+    
+    @media screen and (max-width: 1000px) and (min-width: 784px) {
+      font-size: 2.25rem;
+    }
   }
 
   // Show secondary nav content + lead
@@ -164,7 +188,8 @@ body {
 
     // Attach to bottom or top of window
     @if $sidebar-sticky {
-      bottom: 0;
+      bottom:45%;
+      transform:translateY(53%) translateX(-80%)
     }
 
     @else {
@@ -177,12 +202,23 @@ body {
     }
 
     @else {
-      left: 0;
+      left: 23%;
     }
 
     .site-title {
       font-size: 3.25rem;
       .back-arrow { display: none; }
+      @media screen and (max-width: 1180px) and (min-width: 784px) {
+        font-size: 2.5rem;
+      }
+      
+      @media screen and (max-height: 620px) {
+        font-size: 2.5rem;
+      }
+      
+      @media screen and (max-width: 1000px) and (min-width: 784px) {
+        font-size: 2.25rem;
+      }
     }
 
     p.lead,
@@ -201,6 +237,10 @@ body {
   .container {
     background: $body-bg;
     color: $body-color;
+    @media(prefers-color-scheme: dark) {
+      background: $body-bg-dark;
+      color: $body-color-dark;
+    }
     min-height: 100vh;
     padding:
       $section-spacing * 2
@@ -215,14 +255,23 @@ body {
       margin-left: $sidebar-width;
     }
 
+    @media screen and (max-width: 910px) and (min-width: 784px) {
+      margin-left: 260px;
+    }
+
     > header {
       color: $heading-color;
+      @media(prefers-color-scheme: dark) {
+        color: $heading-color-dark;
+      }
       margin: 0;
 
       h1,
       h2 {
         color: inherit;
-
+        @media(prefers-color-scheme: dark) {
+          color: $heading-color-dark;
+        }
         &:last-child {
           margin-bottom: $heading-spacing;
         }
@@ -242,9 +291,15 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
+  @media(prefers-color-scheme: dark) {
+    color: $sidebar-link-color-dark;
+  }
 
   svg {
     fill: $sidebar-icon-color;
+    @media(prefers-color-scheme: dark) {
+      fill: $sidebar-icon-color-dark;
+    }
   }
 }
 
@@ -252,6 +307,9 @@ body {
 #sidebar a:focus,
 #sidebar a.active {
   svg { fill: $sidebar-icon-color; }
+  @media(prefers-color-scheme: dark) {
+    fill: $sidebar-icon-color-dark
+  }
 }
 
 #sidebar a:hover,
@@ -269,6 +327,9 @@ body {
 
 #sidebar .site-title {
   color: $sidebar-title-color;
+  @media(prefers-color-scheme: dark) {
+    color: $sidebar-title-color-dark;
+  }
   a { color: inherit; }
 }
 
