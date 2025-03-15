@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Todos mis Proyectos
+title: Todos mis proyectos
 category: Proyecto
 ---
 
-Aquí se pueden encontrar todos mis proyectos.
+Aquí pueden encontrarse todos mis proyectos enlistados.
